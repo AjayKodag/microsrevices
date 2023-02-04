@@ -9,7 +9,7 @@ public class StudentController {
 	@RequestMapping("firstservice")
 	public String welcomeMessage() {
 		return
-"We started spring boot at Ajay";
+"We started spring boot at our Local Machine";
 	}
 
 }
